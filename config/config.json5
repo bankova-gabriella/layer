@@ -1,0 +1,17 @@
+{
+  "pandas": {
+    "use_bottleneck": true,
+    "use_numexpr": true,
+    "chained_assignment": "raise",
+    "dropna_table": true
+  },
+  "connections": {
+  },
+  "environment": {
+    "default": "prod",
+    "prod": "prod",
+    "dev": "dev",
+    "local": "local",
+    "max_workers": 16
+  }
+}

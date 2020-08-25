@@ -1,0 +1,15 @@
+.idea/
+.git/
+venv/
+dist/
+bric_layer.egg-info
+build/
+
+__pycache__
+*.pyc
+
+temp/
+
+config/local_config.json5
+
+.pypirc

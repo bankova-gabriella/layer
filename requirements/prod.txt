@@ -1,0 +1,13 @@
+numpy
+
+pandas
+
+munch
+
+docker
+
+colorlog
+
+pipey
+
+graphene
